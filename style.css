@@ -1,0 +1,84 @@
+
+div {
+ text-align: center;
+ background-color:#000000;
+ }
+ .text{
+ color:#ff0000;
+text-align:center;
+}
+body{
+  background-color: #000000;
+}
+#Walking{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+}
+
+#Walking1{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+}
+
+#Walking2{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+}
+
+#Walking3{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+}
+#Walking4{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+
+}
+
+#Walking5{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+
+}
+
+#Walking6{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+
+}
+#Walking7{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+}
+
+#Walking8{
+  background-image:url("https://cdn.discordapp.com/attachments/206469547300093963/359865766213845003/21463110_753480858172726_2375351246486386247_n.png");
+height: 550px;
+width: 950px;
+position:fixed;
+background-position: 50% 50%;
+}

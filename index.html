@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Webpage Review </title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <style src="Java.js">   </style>
+  </head>
+  <body>
+    <button type="button" id="Walking8"></button>
+    <button type="button" id="Walking7"></button>
+    <button type="button" id="Walking6"></button>
+    <button type="button" id="Walking5"></button>
+    <button type="button" id="Walking4"></button>
+    <button type="button" id="Walking3"></button>
+    <button type="button" id="Walking2"></button>
+    <button type="button" id="Walking"></button>
+    <div class="text">
+      <h1> Click on the picture to split </h1>
+      <script>
+      $(document).ready(function(){
+      $("Walking4").click(function(){
+          $("#Walking8").animate({height: "300px"});
+      });
+    });
+      $(document).ready(function(){
+      $("Walking3").click(function(){
+          $("#Walking7").animate({height: "300px"});
+      });
+    });
+    $(document).ready(function(){
+    $("Walking2").click(function(){
+        $("#Walking6").animate({height: "300px"});
+    });
+  });
+  $(document).ready(function(){
+  $("Walking1").click(function(){
+      $("#Walking5").animate({height: "300px"});
+  });
+});
+$(document).ready(function(){
+$("Walking").click(function(){
+    $("#Walking4 #Walking5 #Walking5").animate({right:'50%', top:'90%');
+});
+});
+$(document).ready(function(){
+$("Walking").click(function(){
+    $("#Walking3 #Walking4 #Walking5").animate({left:'50%', top:'90%'});
+});
+});
+$(document).ready(function(){
+$("Walking").click(function(){
+    $("#Walking2 #Walking3 #Walking4").animate({right:'50%',top:'50%'});
+});
+});
+$(document).ready(function(){
+$("Walking").click(function(){
+    $("#Walking1 #Walking2 #Walking3").animate({left:'50%', top:'50%'});
+});
+});
+$(document).ready(function(){
+$("Walking").dblclick(function(){
+    $("#Walking1, #Walking2, #Walking3, #Walking4, #Walking5, #Walking6, #Walking7, #Walking8").animate({left: '50%', top:'50%'});
+});
+});
+});
+      </script>
+    </div>
+    <div>
+
+  </body>
+</div>
+</html>
